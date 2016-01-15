@@ -47,7 +47,7 @@ body {
 }
 
 .time {
-
+  position: relative;
 }
 
 .time-bar {
@@ -77,6 +77,9 @@ body {
 
 .time-lapsed {
   font-size: .7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 .time-total {
