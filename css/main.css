@@ -83,14 +83,14 @@ body {
 .time-lapsed {
   font-size: .7rem;
   position: absolute;
-  left: 1rem;
+  left: 4rem;
   top: 0;
 }
 
 .time-total {
   font-size: .7rem;
   position: absolute;
-  right: 1rem;
+  right: .5rem;
   top: 0;
 }
 
@@ -105,18 +105,18 @@ body {
 
 .control-shuffle {
   position: absolute; 
-  top: 0;
-  right: 0; 
+  top: 1rem;
+  left: 4rem; 
 }
 
 .control-list {
   position: absolute; 
-  top: 0;
-  right: 0; 
+  top: 1rem;
+  right: .5rem; 
 }
 
 .control-heart {
   position: absolute; 
-  top: 0;
-  right: 0; 
+  top: 1rem;
+  right: 2rem; 
 }
