@@ -52,7 +52,7 @@ body {
 }
 
 .time {
-  position: relative;
+
 }
 
 .time-bar {
@@ -63,6 +63,10 @@ body {
   -moz-appearance: none;
   border: 0;
   background-color: #aaa;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
 }
 
 /*
@@ -84,14 +88,14 @@ body {
   font-size: .7rem;
   position: absolute;
   left: 4rem;
-  top: 0;
+  bottom: 8px;
 }
 
 .time-total {
   font-size: .7rem;
   position: absolute;
   right: .5rem;
-  top: 0;
+  bottom: 8px;
 }
 
 .controls {
@@ -105,18 +109,18 @@ body {
 
 .control-shuffle {
   position: absolute; 
-  top: 1rem;
+  top: .5rem;
   left: 4rem; 
 }
 
 .control-list {
   position: absolute; 
-  top: 1rem;
+  top: .5rem;
   right: .5rem; 
 }
 
 .control-heart {
   position: absolute; 
-  top: 1rem;
+  top: .5rem;
   right: 2rem; 
 }
