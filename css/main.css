@@ -48,7 +48,7 @@ body {
   top: 0;
   left: 0;
   bottom: 0;
-  height: 100%; 
+  height: 100%;
 }
 
 .time-bar {
@@ -104,19 +104,19 @@ body {
 }
 
 .control-shuffle {
-  position: absolute; 
+  position: absolute;
   top: .5rem;
-  left: 4rem; 
+  left: 4rem;
 }
 
 .control-list {
-  position: absolute; 
+  position: absolute;
   top: .5rem;
-  right: .5rem; 
+  right: .5rem;
 }
 
 .control-heart {
-  position: absolute; 
+  position: absolute;
   top: .5rem;
-  right: 2rem; 
+  right: 2rem;
 }
